@@ -1,4 +1,8 @@
-# Cardiovascular_Risk_Prediction-by-omkar-
+<h1 align="center">Cardiovascular_Risk_Prediction-by-omkar</h1>
+<h3 align="center"> AlmaBetter Verified Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 Project Summary -
 Cardiovascular disease is a leading cause of death worldwide, and early prediction of cardiovascular risk can help in timely intervention and prevention of the disease. Machine learning techniques have shown promising results in predicting cardiovascular risk by analyzing various risk factors.
 
@@ -17,3 +21,7 @@ The results show that the XGBoost performs the best, with an accuracy of 0.89, p
 Further analysis is performed to identify the most important features in the dataset. The feature importance plot shows that age, education, prevalentHyp,and cigarettes per day are the top important features in predicting cardiovascular risk. This information can help in identifying high-risk individuals and implementing preventive measures.
 
 In conclusion, this project demonstrates the effectiveness of machine learning techniques in predicting cardiovascular risk using the Framingham Heart Study dataset. The developed machine learning model can be used by healthcare professionals to identify individuals at high risk of cardiovascular disease and take preventive measures to reduce the risk.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
